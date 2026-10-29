@@ -477,7 +477,3 @@ The project makes the flow of a basic investment portfolio visible: a user start
 > Prices and trades are simulated for education. The application does **not** provide financial advice, live quotes, broker connectivity, or real-money trading.
 
 ---
-
-<p align="center">
-  <sub>Built with ❤️ as a <b>CodeAlpha</b> internship project</sub>
-</p>
