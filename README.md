@@ -441,8 +441,8 @@ mindmap
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/<your-username>/CodeAlpha_StockTradingPlatform.git
-   cd CodeAlpha_StockTradingPlatform
+   git clone https://github.com/<your-username>/SankalpT23_StockTradingPlatform.git
+   cd SankalpT23_StockTradingPlatform
    ```
 
 2. **Configure the database**
